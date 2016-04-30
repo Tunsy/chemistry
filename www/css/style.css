@@ -41,6 +41,15 @@ td-card .buttondesc{
     background-color: #f3f3f3;
     padding: 10px;
 }
+td-card .profile {
+    position: absolute;
+    bottom: -300px;
+    width: 900px;
+    color: #333;
+    background-color: #f3f3f3;
+    padding: 10px;
+}
+
 td-card .buttondesc button{
   margin: 0 10px;
 }
